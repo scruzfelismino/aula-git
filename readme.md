@@ -1,3 +1,5 @@
 Aula de Git
 
-Feito algums alterações
+Feito algumas alterações
+
+Feito alteração após o git clone
